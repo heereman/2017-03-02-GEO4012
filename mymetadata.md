@@ -1,4 +1,4 @@
-##My Metadata-file
+## My Metadata-file
 
 My name is Michel Heeremans. Teacher and IT support staff at the Department of Geosciences, University of Oslo.
 
