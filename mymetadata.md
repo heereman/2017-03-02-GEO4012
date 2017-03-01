@@ -1,5 +1,5 @@
-My name is Michel Heeremans
+##My Metadata-file
 
-I teach Research Data Management at the Departmenmt of Geosciences, UiO
+My name is Michel Heeremans. Teacher and IT support staff at the Department of Geosciences, University of Oslo.
 
-I'm 50 years old
+Today I teach students tips and tricks about Research Data Management
